@@ -34,7 +34,7 @@ akcie:
 
 * **Web:** [saris.cykloklub.sk](http://saris.cykloklub.sk)
 * **E-mail:** saris@cykloklub.sk
-* **Tel:** 0903 772 184, Ľubo Hrečko
+* **Tel:** 0905 200 766, Ľubo Hrečko
 * **IČO:** 37785699
 * **Adresa:** Čergovská 22, 08001 Prešov, Slovenská republika
 
